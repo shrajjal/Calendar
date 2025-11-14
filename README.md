@@ -148,7 +148,6 @@ You can upload images in GitHub issues or repo and paste links here.
 
 # 7. Live Demo / Deployment
 
-If deployed on Render / Vercel / Netlify, add the link here:
 
 **Live Demo:** *[https://calendarfrontend6.onrender.com](https://calendarfrontend6.onrender.com)*
 
